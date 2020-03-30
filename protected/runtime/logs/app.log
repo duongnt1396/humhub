@@ -5729,3 +5729,137 @@ $_SERVER = [
     'REQUEST_TIME_FLOAT' => 1585548748.302
     'REQUEST_TIME' => 1585548748
 ]
+2020-03-30 02:43:59 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 02:43:59 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 02:43:59 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 02:43:59 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 02:43:59 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 02:43:59 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 02:43:59 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 02:43:59 [127.0.0.1][1][-][info][application] $_GET = [
+    'r' => 'dashboard/dashboard'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'humhubdemo.com'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://humhubdemo.com/index.php?r=user%2Fauth%2Flogin'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'language=a618c1acedb016aa61999a2a1744b82f27ccc0a58b956982cb24569477076ad3a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22language%22%3Bi%3A1%3Bs%3A2%3A%22vi%22%3B%7D; XDEBUG_SESSION=PHPSTORM; PHPSESSID=ba4qlkhl0rhklb9u23rs1bnbtb; _csrf=fd356392e0f1d5abda3344608f655a06ad16e82057c3878927b54e0e42d3b248a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223Ae3itGDgYoIpIrcHNxCY3gpqnJYLpBk%22%3B%7D; _identity=603622790368c700e374f5c601d3b1413aa1714d1d77c13ee517a45276ec5731a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A50%3A%22%5B1%2C%22ffe83a38-ecf9-45fb-8ee3-5214e5ed56c1%22%2C2592000%5D%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at humhubdemo.com Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'humhubdemo.com'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/humhub'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/humhub'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => '/var/www/humhub/index.php'
+    'REMOTE_PORT' => '39212'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=dashboard%2Fdashboard'
+    'REQUEST_URI' => '/index.php?r=dashboard%2Fdashboard'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1585554239.722
+    'REQUEST_TIME' => 1585554239
+]
+2020-03-30 03:26:03 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 03:26:03 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 03:26:03 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 03:26:03 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 03:26:03 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 03:26:03 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 03:26:03 [127.0.0.1][1][-][warning][yii\i18n\I18N::format] Formatting message for language 'vi' failed with error: Message pattern is invalid: Constructor failed. The message being formatted was: {n,plural,=1{# new entry} khác{# new entries}} kể từ lần truy cập cuối.
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:227
+    in /var/www/humhub/protected/humhub/components/i18n/I18N.php:148
+    in /var/www/humhub/protected/humhub/modules/space/widgets/views/spaceChooserItem.php:23
+2020-03-30 03:26:03 [127.0.0.1][1][-][info][application] $_GET = [
+    'r' => 'space/space'
+    'cguid' => '93a6daa9-65b1-4581-9909-bc058d5c0441'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'humhubdemo.com'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'language=a618c1acedb016aa61999a2a1744b82f27ccc0a58b956982cb24569477076ad3a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22language%22%3Bi%3A1%3Bs%3A2%3A%22vi%22%3B%7D; XDEBUG_SESSION=PHPSTORM; _identity=603622790368c700e374f5c601d3b1413aa1714d1d77c13ee517a45276ec5731a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A50%3A%22%5B1%2C%22ffe83a38-ecf9-45fb-8ee3-5214e5ed56c1%22%2C2592000%5D%22%3B%7D; PHPSESSID=ba4qlkhl0rhklb9u23rs1bnbtb; _csrf=fd356392e0f1d5abda3344608f655a06ad16e82057c3878927b54e0e42d3b248a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%223Ae3itGDgYoIpIrcHNxCY3gpqnJYLpBk%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at humhubdemo.com Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'humhubdemo.com'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/humhub'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/humhub'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => '/var/www/humhub/index.php'
+    'REMOTE_PORT' => '37670'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=space%2Fspace&cguid=93a6daa9-65b1-4581-9909-bc058d5c0441'
+    'REQUEST_URI' => '/index.php?r=space%2Fspace&cguid=93a6daa9-65b1-4581-9909-bc058d5c0441'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1585556762.999
+    'REQUEST_TIME' => 1585556762
+]
