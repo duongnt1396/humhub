@@ -1,0 +1,20 @@
+a:2:{i:0;s:1476:"
+<a href="/index.php?r=activity%2Flink&id=32">
+    <li class="activity-entry" data-stream-entry data-action-component="activity.ActivityStreamEntry" data-content-key="38">
+        <div class="media">
+                            <!-- Show user image -->
+                <span class="pull-left"><img class="media-object img-rounded" src="/static/img/default_user.jpg" width="32" alt="Ảnh đại diện của Hải Nguyễn" style="width: 32px; height: 32px" data-contentcontainer-id="7"></span>            
+            <!-- Show space image, if you are outside from a space -->
+                                                <div class="img-space pull-left space-profile-acronym-1 space-acronym" style=" background-color: #6fdbe8; width: 20px; height: 20px; font-size: 8.8px; padding: 3.6px 0; border-radius: 2px;" data-contentcontainer-id="2">WS</div><img class="img-space pull-left space-profile-image-1 img-rounded profile-user-photo hidden" src="/static/img/default_space.jpg" alt="Welcome Space" style=" width: 20px; height: 20px" data-contentcontainer-id="2">                
+            
+            <div class="media-body text-break">
+
+                <!-- Show content -->
+                <strong>Hải Nguyễn</strong> likes Câu hỏi "your choice?"                <br>
+
+                <!-- show time -->
+                <span class="time"><span title="27 thg 3, 2020 - 15:22">27 thg 3, 2020 - 15:22</span></span>            </div>
+        </div>
+    </li>
+</a>
+";i:1;N;}

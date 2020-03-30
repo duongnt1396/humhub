@@ -1,0 +1,20 @@
+a:2:{i:0;s:1535:"
+<a href="/index.php?r=activity%2Flink&id=39">
+    <li class="activity-entry" data-stream-entry data-action-component="activity.ActivityStreamEntry" data-content-key="49">
+        <div class="media">
+                            <!-- Show user image -->
+                <span class="pull-left"><img class="media-object img-rounded" src="/uploads/profile_image/ffe83a38-ecf9-45fb-8ee3-5214e5ed56c1.jpg?m=1585281507" width="32" alt="Ảnh đại diện của Dương Nguyễn" style="width: 32px; height: 32px" data-contentcontainer-id="1"></span>            
+            <!-- Show space image, if you are outside from a space -->
+                                                <div class="img-space pull-left space-profile-acronym-3 space-acronym" style=" background-color: #043a7c; width: 20px; height: 20px; font-size: 8.8px; padding: 3.6px 0; border-radius: 2px;" data-contentcontainer-id="6">E</div><img class="img-space pull-left space-profile-image-3 img-rounded profile-user-photo hidden" src="/static/img/default_space.jpg" alt="edầ" style=" width: 20px; height: 20px" data-contentcontainer-id="6">                
+            
+            <div class="media-body text-break">
+
+                <!-- Show content -->
+                <strong>Dương Nguyễn</strong> vừa tạo mới Trang Kiến thức "rytrey".                <br>
+
+                <!-- show time -->
+                <span class="time"><span title="27 thg 3, 2020 - 18:00">27 thg 3, 2020 - 18:00</span></span>            </div>
+        </div>
+    </li>
+</a>
+";i:1;N;}

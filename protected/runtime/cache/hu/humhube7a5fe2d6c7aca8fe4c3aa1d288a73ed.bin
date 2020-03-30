@@ -1,0 +1,20 @@
+a:2:{i:0;s:1533:"
+<a href="/index.php?r=activity%2Flink&id=22">
+    <li class="activity-entry" data-stream-entry data-action-component="activity.ActivityStreamEntry" data-content-key="27">
+        <div class="media">
+                            <!-- Show user image -->
+                <span class="pull-left"><img class="media-object img-rounded" src="/uploads/profile_image/ffe83a38-ecf9-45fb-8ee3-5214e5ed56c1.jpg?m=1585281507" width="32" alt="Ảnh đại diện của Dương Nguyễn" style="width: 32px; height: 32px" data-contentcontainer-id="1"></span>            
+            <!-- Show space image, if you are outside from a space -->
+                                                <div class="img-space pull-left space-profile-acronym-1 space-acronym" style=" background-color: #6fdbe8; width: 20px; height: 20px; font-size: 8.8px; padding: 3.6px 0; border-radius: 2px;" data-contentcontainer-id="2">WS</div><img class="img-space pull-left space-profile-image-1 img-rounded profile-user-photo hidden" src="/static/img/default_space.jpg" alt="Welcome Space" style=" width: 20px; height: 20px" data-contentcontainer-id="2">                
+            
+            <div class="media-body text-break">
+
+                <!-- Show content -->
+                <strong>Dương Nguyễn</strong> đã viết comment mới "32423432"                <br>
+
+                <!-- show time -->
+                <span class="time"><span title="27 thg 3, 2020 - 14:36">27 thg 3, 2020 - 14:36</span></span>            </div>
+        </div>
+    </li>
+</a>
+";i:1;N;}

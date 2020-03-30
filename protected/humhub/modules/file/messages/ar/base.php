@@ -1,0 +1,23 @@
+<?php
+return array (
+  '<strong>Open</strong> file' => '',
+  '<strong>Upload</strong> error' => '<strong>خطأ</strong> في الرفع',
+  'Close' => 'إغلاق',
+  'Could not find requested file variant!' => '',
+  'Could not find requested file!' => 'لم يتم ايجاد الملف المطلوب',
+  'Could not upload File:' => 'لم استطع رفع الملف',
+  'Created by:' => '',
+  'Double file extensions are not allowed!' => '',
+  'Download' => '',
+  'File {fileName} could not be uploaded!' => '',
+  'Image dimensions are too big to be processed with current server memory limit!' => '',
+  'Insufficient permissions!' => 'ليست لديك الصلاحيات اللازمة!',
+  'Invalid Mime-Type' => '@Invalid Mime-Type@',
+  'Invalid file name detected!' => '',
+  'Last update by:' => '',
+  'Size:' => '',
+  'Sorry, you can only upload up to {n,plural,=1{# file} other{# files}} at once.' => '',
+  'The uploaded image is not a squared.' => '',
+  'This upload field only allows a maximum of {n,plural,=1{# file} other{# files}}.' => '',
+  'Upload files' => 'رفع ملفات',
+);

@@ -1,0 +1,23 @@
+<?php
+return array (
+  '<strong>Open</strong> file' => '<strong>Mở</strong> file',
+  '<strong>Upload</strong> error' => 'Lỗi <strong>upload</strong>',
+  'Close' => 'Đóng',
+  'Could not find requested file variant!' => 'Không thể tìm thấy biến thể tệp được yêu cầu!',
+  'Could not find requested file!' => 'Không thể tìm thấy file yêu cầu!',
+  'Could not upload File:' => 'Không thể upload File:',
+  'Created by:' => '',
+  'Double file extensions are not allowed!' => '',
+  'Download' => 'Download',
+  'File {fileName} could not be uploaded!' => 'File {fileName} không thể upload!',
+  'Image dimensions are too big to be processed with current server memory limit!' => 'Kích thước ảnh quá lớn để xử lý vì giới hạn bộ nhớ máy chủ!',
+  'Insufficient permissions!' => 'Không đủ quyền!',
+  'Invalid Mime-Type' => 'Kiểu Mime không hợp lệ',
+  'Invalid file name detected!' => '',
+  'Last update by:' => '',
+  'Size:' => 'Kích thước:',
+  'Sorry, you can only upload up to {n,plural,=1{# file} other{# files}} at once.' => '',
+  'The uploaded image is not a squared.' => '',
+  'This upload field only allows a maximum of {n,plural,=1{# file} other{# files}}.' => 'Trường upload chỉ cho phép tối đa {n,plural,=1{# file} other{# files}}.',
+  'Upload files' => 'Upload files',
+);
